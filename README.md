@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Zeyd. Since 2013, I have been gaining experience in web application development. I have a solid foundation in using modern technologies such as Laravel, NestJS, Angular, and Vue, with a particular focus on developing e-commerce applications. Additionally, I develop corporate, manageable web applications tailored to the specific needs of businesses. My goal is to provide user-friendly and functional web solutions that help my partners succeed in the digital world.
+
 <!--
 **zeydduran/zeydduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
